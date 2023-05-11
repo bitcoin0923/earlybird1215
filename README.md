@@ -432,7 +432,7 @@
         <a href="https://reactnative.dev/" target="_blank"
           ><img
             style="margin: 10px"
-            src="https://akechi-kondo-site.pages.dev/static/media/flutter.643a93c82cd15bbffd12a9ce33a79751.svg"
+            src="https://akechi-kondo-site.pages.dev/static/media/reactnative.55360266b3781dae00a5a77c8916f82d.svg"
             alt="React Native"
             height="50"
         /></a>
