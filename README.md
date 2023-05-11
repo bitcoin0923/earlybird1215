@@ -6,12 +6,12 @@
   /> -->
 </div>
 
-<h2 align="center">
-  I'm  a experienced Mobile & Web & Blockchain developer
-</h2>
+<h1 align="center">
+  Web & Mobile developer
+</h1>
 <br />
 <h4>❓ Ask me about anything
-  related to MERN stack, LAMP stack, Mobile App, Blockchain and related technologies </h4>
+  related to MERN stack, LAMP stack, Mobile App and related technologies </h4>
 <br />
 
 ## My Skill Set
@@ -70,78 +70,11 @@
             alt="Bootstrap"
             height="50"
         /></a>
-        <a href="https://www.w3schools.com/css/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"
-            alt="CSS3"
-            height="50"
-        /></a>
-        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"
-            alt="HTML5"
-            height="50"
-        /></a>
-        <a href="https://www.javascript.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"
-            alt="JavaScript"
-            height="50"
-        /></a>
-        <a href="https://www.chartjs.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/logo-title.svg"
-            alt="Chart.js"
-            height="50"
-        /></a>
         <a href="https://www.figma.com/" target="_blank"
           ><img
             style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg"
             alt="Figma"
-            height="50"
-        /></a>
-        <a
-          href="https://www.adobe.com/in/products/photoshop.html"
-          target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg"
-            alt="Photoshop"
-            height="50"
-        /></a>
-        <a href="https://woocommerce.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/woocommerce.png"
-            alt="WooCommerce"
-            height="50"
-        /></a>
-        <a href="https://nuxtjs.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/nuxt.png"
-            alt="Nuxt JS"
-            height="50"
-        /></a>
-        <a href="https://wordpress.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/wordpress.png"
-            alt="WordPress"
-            height="50"
-        /></a>
-        <a
-          href="https://www.adobe.com/in/products/indesign.html"
-          target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg"
-            alt="Adobe InDesign"
             height="50"
         /></a>
         <a href="https://sass-lang.com/" target="_blank"
@@ -191,6 +124,13 @@
             alt="Laravel"
             height="50"
         /></a>
+        <a href="https://graphql.org/" target="_blank"
+          ><img
+            style="margin: 10px"
+            src="https://profilinator.rishav.dev/skills-assets/graphql.png"
+            alt="GraphQL"
+            height="50"
+        /></a>
         <a href="https://www.mysql.com/" target="_blank"
           ><img
             style="margin: 10px"
@@ -205,20 +145,6 @@
             alt="Django"
             height="50"
         /></a>
-        <a href="https://www.cplusplus.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg"
-            alt="C++"
-            height="50"
-        /></a>
-        <a href="https://www.javascript.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"
-            alt="JavaScript"
-            height="50"
-        /></a>
         <a href="https://www.typescriptlang.org/" target="_blank"
           ><img
             style="margin: 10px"
@@ -226,85 +152,11 @@
             alt="TypeScript"
             height="50"
         /></a>
-        <a href="https://www.linux.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/linux-original.svg"
-            alt="Linux"
-            height="50"
-        /></a>
-        <a href="https://www.nginx.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg"
-            alt="Nginx"
-            height="50"
-        /></a>
-        <a href="https://www.python.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/python-original.svg"
-            alt="Python"
-            height="50"
-        /></a>
-        <a href="https://github.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"
-            alt="Git"
-            height="50"
-        /></a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg"
-            alt="Bash"
-            height="50"
-        /></a>
-        <a
-          href="https://docs.microsoft.com/en-us/dotnet/csharp/"
-          target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg"
-            alt="C#"
-            height="50"
-        /></a>
-        <a
-          href="https://dotnet.microsoft.com/download/dotnet-framework"
-          target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg"
-            alt=".NET"
-            height="50"
-        /></a>
-        <a href="https://redis.io/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg"
-            alt="Redis"
-            height="50"
-        /></a>
-        <a href="https://www.ruby-lang.org/en/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg"
-            alt="Ruby"
-            height="50"
-        /></a>
         <a href="https://nuxtjs.org/" target="_blank"
           ><img
             style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/nuxt.png"
             alt="Nuxt JS"
-            height="50"
-        /></a>
-        <a href="https://rubyonrails.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg"
-            alt="Ruby on Rails"
             height="50"
         /></a>
       </div>
@@ -326,13 +178,6 @@
             alt="GCP"
             height="50"
         /></a>
-        <a href="https://kubernetes.io/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg"
-            alt="Kubernetes"
-            height="50"
-        /></a>
         <a href="https://www.linux.org/" target="_blank"
           ><img
             style="margin: 10px"
@@ -347,27 +192,6 @@
             alt="Git"
             height="50"
         /></a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg"
-            alt="Bash"
-            height="50"
-        /></a>
-        <a href="https://graphql.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/graphql.png"
-            alt="GraphQL"
-            height="50"
-        /></a>
-        <a href="https://about.gitlab.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/gitlab.svg"
-            alt="GitLab"
-            height="50"
-        /></a>
         <a href="https://firebase.google.com/" target="_blank"
           ><img
             style="margin: 10px"
@@ -375,53 +199,11 @@
             alt="Firebase"
             height="50"
         /></a>
-        <a href="https://gulpjs.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg"
-            alt="gulp.js"
-            height="50"
-        /></a>
         <a href="https://www.docker.com/" target="_blank"
           ><img
             style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg"
             alt="Docker"
-            height="50"
-        /></a>
-        <a href="https://wordpress.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/wordpress.png"
-            alt="WordPress"
-            height="50"
-        /></a>
-        <a href="https://www.apachefriends.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/xampp.png"
-            alt="XAMPP"
-            height="50"
-        /></a>
-        <a href="https://woocommerce.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/woocommerce.png"
-            alt="WooCommerce"
-            height="50"
-        /></a>
-        <a href="https://webpack.js.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg"
-            alt="Webpack"
-            height="50"
-        /></a>
-        <a href="https://www.nginx.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg"
-            alt="Nginx"
             height="50"
         /></a>
       </div>
@@ -457,41 +239,6 @@
             alt="Unity"
             height="50"
         /></a>
-        <a href="https://kotlinlang.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg"
-            alt="Kotlin"
-            height="50"
-        /></a>
-        <a href="https://www.java.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg"
-            alt="Java"
-            height="50"
-        /></a>
-        <a href="https://www.ionicframework.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/ionic.svg"
-            alt="Ionic"
-            height="50"
-        /></a>
-        <a href="https://www.cordova.apache.org/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/cordova.png"
-            alt="Cordova"
-            height="50"
-        /></a>
-        <a href="https://developer.apple.com/swift/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg"
-            alt="Swift"
-            height="50"
-        /></a>
       </div>
     </td>
   </tr>
@@ -499,29 +246,6 @@
 
 <br />
 
-## Github Stats 1
 
-<!-- Light Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=km1220&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="Rick Staa's Language stats" />
-</a>
-</div>
-
-<!-- Dark Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=km1220&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
-</a>
-</div>
-
-## Github Stats 2
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=km1220&show_icons=true&count_private=true&hide_border=true"
-    align="center"
-  />
-</div>
 
 <br />
