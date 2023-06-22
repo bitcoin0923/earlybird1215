@@ -10,8 +10,9 @@
   Blockchain & Web & Mobile developer
 </h1>
 <br />
-<h3>❓ Ask me about anything
-  related to Blockchain (EVM, Algorand, Wormhole), Web (MERN stack, LAMP stack), Mobile App (ReactNative, Flutter) and related technologies </h3>
+<h3>🥚 Blockchain (EVM, Algorand, Wormhole) </h3>
+<h3>🥚 Web (MERN stack, LAMP stack) </h3>
+<h3>🥚 Mobile App (ReactNative, Flutter, KMM) </h3>
 <br />
 
 ## My Skill Set
