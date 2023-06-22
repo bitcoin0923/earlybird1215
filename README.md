@@ -7,11 +7,11 @@
 </div>
 
 <h1 align="center">
-  Web & Mobile developer
+  Blockchain & Web & Mobile developer
 </h1>
 <br />
 <h4>❓ Ask me about anything
-  related to MERN stack, LAMP stack, Mobile App and related technologies </h4>
+  related to Blockchain (EVM, Algorand, Wormhole), Web (MERN stack, LAMP stack), Mobile App (ReactNative, Flutter) and related technologies </h4>
 <br />
 
 ## My Skill Set
